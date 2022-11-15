@@ -40,3 +40,17 @@ vignettes/*.pdf
 
 # ignore PDFs
 *.pdf
+
+# ignore .csv files
+*.csv
+
+# ignore Excel files
+*.xlsx
+
+#ignore rproject file
+*.Rproj
+
+#ignore data and figures folder
+data/
+figures/
+
